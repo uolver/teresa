@@ -1,0 +1,22 @@
+img{
+    width: 300px;
+    margin-left: -2px;
+    margin-right: -2px;
+}
+
+figure{
+    margin: auto;
+    width: 900px;
+    text-align: center;
+    background-color: aqua;
+    border: 1px solid black;
+}
+
+div{
+    background-color: lawngreen;
+}
+
+*{
+    margin:0;
+    padding:0;
+}
